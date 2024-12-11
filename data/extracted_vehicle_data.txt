@@ -1,0 +1,122 @@
+Plate Number, Classification
+West Shelley RTO, Alabama, Black
+2.0, Black
+3.0, Black
+4.0, Black
+5.0, Black
+6.0, Black
+Curtischester RTO, Nebraska, Black
+8.0, Black
+Martinton RTO, Nevada, Black
+11.0, Black
+North Peterborough RTO, Kansas, Black
+14.0, Black
+15.0, Black
+Lake Juliatown RTO, Delaware, Black
+18.0, Black
+North Rachaelburgh RTO, North Carolina, Black
+20.0, Black
+22.0, Black
+Thompsonstad RTO, Colorado, Black
+24.0, Black
+Eileentown RTO, Oklahoma, Black
+26.0, Black
+Michaelside RTO, Virginia, Black
+28.0, Black
+29.0, Black
+30.0, Black
+31.0, Black
+None, Black
+32.0, Black
+34.0, Black
+West Michael RTO, Nevada, Black
+Tonyahaven RTO, Iowa, Black
+North Andreabury RTO, Iowa, Black
+Port Raymond RTO, Alabama, Black
+West William RTO, Colorado, Black
+North Harold RTO, Maryland, Black
+Vickifort RTO, Ohio, Black
+Port Michael RTO, Washington, Black
+Port Mary RTO, Vermont, Black
+Mendozaburgh RTO, Virginia, Black
+Lake Michelleton RTO, Arkansas, Black
+Johnmouth RTO, Pennsylvania, Black
+Lydiastad RTO, Wyoming, Black
+Taylorfurt RTO, Montana, Black
+West Derekstad RTO, Connecticut, Black
+New Jennifer RTO, Montana, Black
+West Justintown RTO, Mississippi, Black
+Lake Jason RTO, Rhode Island, Black
+Davisberg RTO, Alaska, Black
+North Kimberly RTO, Ohio, Black
+Simmonschester RTO, Connecticut, Black
+West Mary RTO, Idaho, Black
+Lake Anthonyview RTO, Florida, Black
+Combsland RTO, West Virginia, Black
+West Jane RTO, Tennessee, Black
+Nicholschester RTO, Utah, Black
+Anthonyfurt RTO, Delaware, Black
+Samuelberg RTO, New Hampshire, Black
+Lewisview RTO, Montana, Black
+Port Steventown RTO, Maine, Black
+West Daniel RTO, California, Black
+Justinburgh RTO, Massachusetts, Black
+New Darylton RTO, Illinois, Black
+Villegasmouth RTO, Michigan, Black
+Lake Erin RTO, Mississippi, Black
+Brianshire RTO, Ohio, Black
+East Richardhaven RTO, Louisiana, Black
+Parkerfort RTO, Utah, Black
+Port Douglas RTO, Kentucky, Black
+Youngmouth RTO, Iowa, Black
+Robertside RTO, Kentucky, Black
+Lake Jacqueline RTO, Virginia, Black
+North Jerrybury RTO, Minnesota, Black
+Port Beverlyborough RTO, Alabama, Black
+Stephentown RTO, Illinois, Black
+Mcguireville RTO, Vermont, Black
+North Josephborough RTO, Louisiana, Black
+Jakefurt RTO, Indiana, Black
+East Andrewside RTO, Oklahoma, Black
+South Pamela RTO, California, Black
+West Markstad RTO, Missouri, Black
+Larafurt RTO, Indiana, Black
+South Maria RTO, Florida, Black
+East Jeffrey RTO, Oklahoma, Black
+Melindahaven RTO, New Hampshire, Black
+Allisontown RTO, Connecticut, Black
+West Mary RTO, Minnesota, Black
+North Courtneybury RTO, Wisconsin, Black
+West Susan RTO, Ohio, Black
+Lindseyberg RTO, Illinois, Black
+West Alanport RTO, South Dakota, Black
+East Mirandatown RTO, Louisiana, Black
+East Gabriellefurt RTO, New Mexico, Black
+East Pamela RTO, Pennsylvania, Black
+Lake Carlafort RTO, Wyoming, Black
+West Meganton RTO, Ohio, Black
+Higginsborough RTO, Rhode Island, Black
+Gomezton RTO, South Dakota, Black
+Warrenland RTO, New Mexico, Black
+West Diana RTO, West Virginia, Black
+Port Walterstad RTO, Colorado, Black
+Angelaport RTO, Maine, Black
+Leebury RTO, Maine, Black
+North Jeffside RTO, Vermont, Black
+Amandahaven RTO, Ohio, Black
+Farmerport RTO, Wyoming, Black
+Ernestside RTO, Oregon, Black
+South Kim RTO, Oregon, Black
+West Alicia RTO, Hawaii, Black
+Cabrerashire RTO, Mississippi, Black
+East Josephland RTO, Colorado, Black
+North Benjamin RTO, West Virginia, Black
+New Marc RTO, California, Black
+Donaldfurt RTO, South Dakota, Black
+Lake Erik RTO, Pennsylvania, Black
+South Scott RTO, Wyoming, Black
+North Ryan RTO, Delaware, Black
+Garciachester RTO, Oregon, Black
+Port Veronicaport RTO, Wisconsin, Black
+West Brandon RTO, Delaware, Black
+North Sandrafurt RTO, North Dakota, Black
